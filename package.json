@@ -1,7 +1,24 @@
 {
+  "name": "discord.js-selfbot",
+  "version": "1.0.0",
+  "description": "An unofficial discord.js fork for creating selfbots",
+  "main": "main.js",
   "dependencies": {
     "axios": "^1.7.2",
     "dotenv": "^16.4.5",
     "ws": "^8.17.1"
-  }
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arthur-pbty/discord.js-selfbot.git"
+  },
+  "author": "arthur-pbty",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/arthur-pbty/discord.js-selfbot/issues"
+  },
+  "homepage": "https://github.com/arthur-pbty/discord.js-selfbot#readme"
 }
